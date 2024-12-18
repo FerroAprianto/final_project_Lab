@@ -1,0 +1,2 @@
+Dec 18 24,beni,VIP,Beni Rockstars,12,5000000.00,60000000.00
+Dec 18 24,lis,Regular,Beni Rockstars,12,1500000.00,18000000.00

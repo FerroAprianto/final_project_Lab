@@ -1,0 +1,6 @@
+Beni Rockstars,VIP,90
+Beni Rockstars,Regular,88
+Sheren Koplo,VIP,100
+Sheren Koplo,Regular,100
+Turen Bergoyang,VIP,100
+Turen Bergoyang,Regular,100
